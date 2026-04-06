@@ -1,4 +1,4 @@
-# React Session Auth Quickstart
+
 
 A modern full-stack template demonstrating session-based authentication using React, Express, Prisma, and Neon PostgreSQL.
 
@@ -15,7 +15,6 @@ A modern full-stack template demonstrating session-based authentication using Re
 
 ## Looking for a Full-Featured Auth Solution?
 
-Check out [Clerk](https://clerk.com) - the comprehensive authentication and user management platform:
 
 - 🎨 Beautiful drop-in UI components for authentication
 - 🔑 Social sign-on with multiple providers (Google, GitHub, etc.)
